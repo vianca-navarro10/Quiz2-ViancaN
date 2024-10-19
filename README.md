@@ -24,3 +24,4 @@ para definir las columnas en las que se colocan los botones.
 
 Resultados:
 
+![Captura de pantalla 2024-10-18 231520](https://github.com/user-attachments/assets/2eb82734-7b2a-458b-83b9-08ae8b7cdc7c)
